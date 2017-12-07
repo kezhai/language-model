@@ -1,0 +1,76 @@
+﻿Danish:
+without excluded:
+er
+jeg
+det
+du
+ikke
+i
+at
+en
+og
+har
+
+after excluded:
+så
+kan
+ved
+ja
+nej
+bare
+kom
+må
+se
+godt
+
+
+Swedish:
+without excluded:
+jag
+det
+är
+du
+inte
+att
+en
+och
+har
+vi
+
+after excluded:
+ska
+vill
+ja
+vet
+nej
+bara
+kommer
+gör
+kom
+måste
+
+
+Norwegian:
+without excluded:
+jeg
+det
+er
+du
+ikke
+en
+og
+i
+har
+vi
+
+after excluded:
+må
+ham
+nei
+vet
+se
+gjør
+igjen
+kommer
+ta
+få
